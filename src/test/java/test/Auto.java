@@ -1,8 +1,6 @@
 package test;
 
 
-import java.util.ArrayList;
-
  class Auto {
 
     // Atributos

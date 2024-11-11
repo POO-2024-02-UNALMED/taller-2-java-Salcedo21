@@ -4,7 +4,7 @@ import java.util.List;
 
 class Motor {
 
-    Integer numerosCilindros;
+    Integer numeroCilindros;
     String tipo;
     Integer registro;
 
